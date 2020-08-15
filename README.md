@@ -1,6 +1,6 @@
 # Quiz
 
-Inspired by the famous TV show Kon Bnega Carorpati, I created this project to challenge and inspire new and enthusiastic software programming language learners to test thier knowledge about the language. The quis has 10 questions each and has questions on three languages :-
+I created this project to challenge and inspire new and enthusiastic software programming language learners. The quis has 10 questions each and has questions on three languages :-
 1. Python
 2. C
 3. Java
