@@ -1,13 +1,13 @@
 # Quiz
 
-I created this project to challenge and inspire new and enthusiastic software programming language learners. The quis has 10 questions each and has questions on three languages :-
+I created this project to challenge and inspire new and enthusiastic software programming language learners. The quiz has 10 questions each and has questions on three languages :-
 1. Python
 2. C
 3. Java
 
 You may select the language to start the quiz.
 
-Python has a vast library support to perform almost every task in field of computer science. Out of those I had used few of the libraries ( actually one ) in order to create a user intephase.
+Python has a vast library support to perform almost every task in field of computer science. Out of those I had used few of the libraries ( actually one ) in order to create a user interface.
 
 Libraries used:-
 1. Tkinter(Documentation:- https://docs.python.org/3/library/tk.html)
